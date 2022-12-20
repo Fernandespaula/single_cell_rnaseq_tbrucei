@@ -1,9 +1,7 @@
-################################
 
-Single cell RNAseq project 2022
+# Single cell RNAseq project 2022
 
-Paula A. Fernandes
-################################
+*Paula A. Fernandes*
 
 
 Trypanosoma brucei:
@@ -16,8 +14,8 @@ reference genome: GTF created in our lab, extended 3' UTRs and addition of mVSGs
 (in ref_genome_tbrucei directory)
 
 goals: 
--Use cellranger, starsolo and salmon alevin in order to get the best out of the sequencing data. 
--Integrate datasets to make a life cycle atlas.
--Compare scRNAseq to bulk RNAseq
--Possibly compare in vitro and in vivo data.
+- Use cellranger, starsolo and salmon alevin in order to get the best out of the sequencing data. 
+- Integrate datasets to make a life cycle atlas.
+- Compare scRNAseq to bulk RNAseq
+- Possibly compare in vitro and in vivo data.
  
