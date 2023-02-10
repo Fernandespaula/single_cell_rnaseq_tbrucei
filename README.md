@@ -6,11 +6,11 @@
 
 Trypanosoma brucei:
 
-samples from 10x Genomics and Indrop from our lab and other groups.
+Samples from 10x Genomics and Indrop from our lab and other groups.
 (more details of each sample in singlecell_rnaseq_projects directory)
 
 
-reference genome: GTF created in our lab, extended 3' UTRs and addition of mVSGs - version in use: gtfv8.8, genome fasta file from trypdb with mVSGs added.
+reference genome: GTF created in our lab, extended 3' UTRs and addition of mVSGs - version in use: gtfv8.11.2, genome fasta file from TriTrypDB with mVSGs added.
 (in ref_genome_tbrucei directory)
 
 goals: 
